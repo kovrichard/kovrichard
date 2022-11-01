@@ -7,7 +7,7 @@
 - 🔳 A [website](https://qrkodgenerator.com/en/) to generate QR codes.
 <!-- - A [website]() to remove passwords from PDFs. -->
 <!-- A [website](https://www.yournextcv.com) to create your own CV. -->
-- 🏭 And finally, a fun project: [Shitcoin Factory](https://www.shitcoinfactory.com)
+- 🏭 A<!--nd finally, a--> fun project: [Shitcoin Factory](https://www.shitcoinfactory.com)
   + For the record, I am a fan of Web3
   + But sadly, there are a lot of useless tokens and projects out there
   + This website is just a joke
