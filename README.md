@@ -12,6 +12,7 @@
   + But sadly, there are a lot of useless tokens and projects out there
   + This website is just a joke
   + Also, it aims to show, how easy it is to create a custom token
+- 🅰️ An Angular npm package: [NGX Mat Color Picker](https://www.npmjs.com/package/ngx-mat-color-picker)
 
 ### Also, I blog about tech stuff and my journey regularly on Twitter ✍️
 
