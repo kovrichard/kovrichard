@@ -23,6 +23,7 @@
 - Python
 - JavaScript
 - TypeScript
+- Solidity
 - Angular
 - C
 - C++
