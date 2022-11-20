@@ -4,7 +4,7 @@
 
 ### My side projects are below: 👇
 
-- 🔳 A [website](https://qrkodgenerator.com/en/) to generate QR codes.
+- 🔳 A [website](https://en.qrkodgenerator.com/) to generate QR codes.
 <!-- - A [website]() to remove passwords from PDFs. -->
 <!-- A [website](https://www.yournextcv.com) to create your own CV. -->
 - 🏭 A<!--nd finally, a--> fun project: [Shitcoin Factory](https://www.shitcoinfactory.com)
