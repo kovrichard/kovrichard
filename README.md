@@ -13,6 +13,7 @@
   + This website is just a joke
   + Also, it aims to show, how easy it is to create a custom token
 - 🅰️ An Angular npm package: [NGX Mat Color Picker](https://www.npmjs.com/package/ngx-mat-color-picker)
+- 🐋 A Docker image for Angular development and testing: [angular-unittest](https://hub.docker.com/r/richardkovacs/angular-unittest)
 
 ### Also, I blog about tech stuff and my journey regularly on Twitter ✍️
 
