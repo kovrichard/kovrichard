@@ -1,20 +1,18 @@
-# Hello there, I'm Richard. 👋
+# Hello there, I'm Richard 👋
 
-## Full-stack developer and IT security trainer.
+## Full-stack developer, trainer, indie hacker.
 
 ### My side projects are below: 👇
 
-- 🔳 A [website](https://en.qrkodgenerator.com/) to generate QR codes.
+- 🤖 A self-service customer support chatbot: [Remiq.ai](https://remiq.ai)
+- 🚀 A Next.js boilerplate to build projects fast: [Catalyst](https://catalyst.richardkovacs.dev)
+- 🔗 An URL shortener and tracker: [Trk.li](https://trk.li)
+- 💬 A text-to-speech plugin for any website: [ReadSonic](https://readsonic.io)
+- 📅 A social media scheduler: [LetterBox](https://letterbox.social)
+- 📂 A directory to find websites where you can advertise your projects: [Banner List](https://bannerlist.co)
+- 📀 A synthetic dataset generator: [Data Rush](https://dataru.sh)
+- 🖌️ A tool to quickly generate CSS highlight effects: [HighlightCSS](https://highlightcss.com)
 - 🔓 A [website](https://pdfdecryptor.vercel.app/) to remove passwords from PDFs.
-<!-- A [website](https://www.yournextcv.com) to create your own CV. -->
-- 🏭 A<!--nd finally, a--> fun project: [Shitcoin Factory](https://www.shitcoinfactory.com)
-  + For the record, I am a fan of Web3
-  + But sadly, there are a lot of useless tokens and projects out there
-  + This website is just a joke
-  + Also, it aims to show, how easy it is to create a custom token
-- 🅰️ An Angular npm package: [NGX Mat Color Picker](https://www.npmjs.com/package/ngx-mat-color-picker)
-- 🐋 A Docker image for Angular development and testing: [angular-unittest](https://hub.docker.com/r/richardkovacs/angular-unittest)
-- 🐋 A Docker image for Next.js development: [nextjs](https://hub.docker.com/r/richardkovacs/nextjs)
 
 ### Also, I blog about tech stuff and my journey regularly on Twitter ✍️
 
