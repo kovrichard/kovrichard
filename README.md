@@ -12,7 +12,7 @@
 - 📂 A directory to find websites where you can advertise your projects: [Banner List](https://bannerlist.co?utm_source=github.com&utm_medium=referral&utm_campaign=profile)
 - 📀 A synthetic dataset generator: [Data Rush](https://dataru.sh?utm_source=github.com&utm_medium=referral&utm_campaign=profile)
 - 🖌️ A tool to quickly generate CSS highlight effects: [HighlightCSS](https://highlightcss.com?utm_source=github.com&utm_medium=referral&utm_campaign=profile)
-- 🔓 A [website](https://pdfdecryptor.vercel.app/?utm_source=github.com&utm_medium=referral&utm_campaign=profile) to remove passwords from PDFs.
+- 🔓 A website to remove passwords from PDFs: [PDF Decryptor](https://pdfdecryptor.vercel.app/?utm_source=github.com&utm_medium=referral&utm_campaign=profile)
 
 ### Also, I blog about tech stuff and my journey regularly on Twitter ✍️
 
